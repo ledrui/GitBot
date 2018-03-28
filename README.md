@@ -27,8 +27,8 @@ Open your [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emu
 `localhost:9000/api/message`. update the port number to your local serving port, in my case it is 9000 yours might be different
 
 ### Sample Questions
-`What can I use to set up a public repository?`
-`Can I add empty directories?`
-`Does Git convert between CRLF and LF for different platforms?`
-`Does Git track all file data and metadata?`
-`Why am I "not on any branch"?`
+* `What can I use to set up a public repository?`
+* `Can I add empty directories?`
+* `Does Git convert between CRLF and LF for different platforms?`
+* `Does Git track all file data and metadata?`
+* `Why am I "not on any branch"?`
