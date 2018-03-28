@@ -1,9 +1,9 @@
 # GitBot
 A Q/A bot for Git FAQ build with Microsoft Bot Builder [SDK]("https://github.com/Microsoft/botbuilder-python/wiki")
 
-`{"question":"What's the difference between fetch and pull?"}
+`{"question":"What's the difference between fetch and pull?"}`
 
-{
+`{
     "answers": [
         {
             "answer": "The short definition is: \r\n\r\nFetch: Download (new) objects and a head from another repository. \r\n\r\nPull: Fetch (as defined above), and then merge what was downloaded with the current development. \r\n\r\n*   See the [git-fetch(1)](http://www.kernel.org/pub/software/scm/git/docs/git-fetch.html) and [git-pull(1)](http://www.kernel.org/pub/software/scm/git/docs/git-pull.html) man pages or the tutorials for more details.",
@@ -14,7 +14,7 @@ A Q/A bot for Git FAQ build with Microsoft Bot Builder [SDK]("https://github.com
         }
     ]
 }
-`
+
 
 ## Usage
 You will need a python 3.6.4 and Bot Framework [Emulator]("https://github.com/Microsoft/BotFramework-Emulator") to run this in your local machine
