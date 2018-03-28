@@ -1,5 +1,5 @@
 # GitBot
-A Q/A bot for Git FAQ build with Microsoft Bot Builder [SDK]("https://github.com/Microsoft/botbuilder-python/wiki")
+A Q/A bot for Git FAQ build with [Microsoft Bot Builder SDK]("https://github.com/Microsoft/botbuilder-python/wiki") and QnA maker 
 
 `{"question":"What's the difference between fetch and pull?"}`
 
